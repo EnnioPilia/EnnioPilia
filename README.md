@@ -3,6 +3,7 @@ Développeur Fullstack Java
 
 Diplômé en 2026 du titre Concepteur Développeur d’Applications (Bac +4) chez Simplon Grenoble.
 Je suis à la recherche d’un poste de développeur, je souhaite intégrer une équipe afin de contribuer à des projets techniques tout en continuant à développer mes compétences.
+--- 
 
 ##  Stack & outils
 
