@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est Ennio 
+#  Bonjour, moi c’est Ennio 
 Développeur Fullstack Java
 
 Diplômé en 2026 du titre Concepteur Développeur d’Applications (Bac +4) chez Simplon Grenoble.
@@ -27,9 +27,9 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ##  Mes projets
-- [Bubble Game](https://bubble-game-ennio.vercel.app/)
-- [Meet Mates](https://meetmates-1.onrender.com)
+- Application full-stack sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
+- Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
 
 ##  Me contacter
-- [LinkedIn][(https://www.linkedin.com/in/ennio-pilia/)
--  mail : pilia.ennio@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/ennio-pilia/)
+- [Envoyer un email](mailto:pilia.ennio@gmail.com)
