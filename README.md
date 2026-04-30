@@ -26,10 +26,10 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-## 🚀 Mes projets
-- 🎮 [Bubble Game](https://bubble-game-ennio.vercel.app/)
-- 📱 [Meet Mates](https://meetmates-1.onrender.com)
+##  Mes projets
+- [Bubble Game](https://bubble-game-ennio.vercel.app/)
+- [Meet Mates](https://meetmates-1.onrender.com)
 
-## 🔗 Me contacter
-- 💼 [LinkedIn][(https://www.linkedin.com/in/TON-LINK](https://www.linkedin.com/in/ennio-pilia/))
-- 📧 mailto:pilia.ennio@gmail.com
+##  Me contacter
+- [LinkedIn][(https://www.linkedin.com/in/ennio-pilia/)
+-  mail : pilia.ennio@gmail.com
