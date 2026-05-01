@@ -40,14 +40,10 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 - API REST sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
 - Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
   
-##  Me contacter
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;"/>
-  <a href="https://www.linkedin.com/in/ennio-pilia/" style="vertical-align:middle;"> LinkedIn</a>
-</p>
-
-<p>
+  <a href="https://www.linkedin.com/in/ennio-pilia/"> LinkedIn</a>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" style="vertical-align:middle;"/>
-  <a href="mailto:pilia.ennio@gmail.com" style="vertical-align:middle;"> Envoyer un email</a>
+  <a href="mailto:pilia.ennio@gmail.com"> Email</a>
 </p>
