@@ -30,10 +30,11 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 ### Outils & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
-
 ##  Mes projets
 - API REST sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
 - Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
