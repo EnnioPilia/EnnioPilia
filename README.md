@@ -39,11 +39,11 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
   <td align="center">
    <sub> Docker - Git - GitHub Actions - Figma</sub><br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="37"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="37"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="37"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="37"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="37"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="35"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
   </td>
   </tr>
 </table>
