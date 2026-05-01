@@ -61,7 +61,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 Application web de mise en relation autour d’activités
 
 - API REST stateless sécurisée avec Spring Boot (JWT, Spring Security)
-- Frontend Angular (SPA, routing, communication API)
+- SPA avec Angular (routing, gestion d’état avec RxJS et Signals)
 - Gestion des utilisateurs, événements et participation
 
  Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
