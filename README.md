@@ -36,10 +36,18 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
-##  Mes projets
+##  Mes projets phares
 - API REST sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
 - Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
-
+  
 ##  Me contacter
--  [LinkedIn](https://www.linkedin.com/in/ennio-pilia/)
-- [Envoyer un email](mailto:pilia.ennio@gmail.com)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+  <a href="https://www.linkedin.com/in/ennio-pilia/">LinkedIn</a>
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20"/>
+  <a href="mailto:pilia.ennio@gmail.com">Envoyer un email</a>
+</p>
