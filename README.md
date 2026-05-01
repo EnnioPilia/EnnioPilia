@@ -50,5 +50,4 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 <p>
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" style="vertical-align:middle;"/>
   <a href="mailto:pilia.ennio@gmail.com" style="vertical-align:middle;"> Envoyer un email</a>
-</p>f="mailto:pilia.ennio@gmail.com"> : Envoyer un email</a>
 </p>
