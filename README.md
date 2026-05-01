@@ -6,19 +6,22 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
 ## 🚀 Stack & outils
 
-<p align="center">
+<div align="center">
+
+<div style="display: inline-block; margin: 20px;">
 <b>Frontend</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-</p>
+</div>
 
-<p align="center">
+<div style="display: inline-block; margin: 20px;">
 <b>Backend</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
-</p>
+</div>
 
+</div>
 ##  Me contacter
 
 <p>
