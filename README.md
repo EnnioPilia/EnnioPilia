@@ -54,7 +54,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 - Développement d'interfaces web 
 - Modélisation de bases de données (MCD, MLD, MPD)
 - Conteneurisation d’applications avec Docker
-- Versioning et CI/CD avec Git et GitHub Actions)
+- Versioning et CI/CD avec Git et GitHub Actions
   <br><br>
   
 ##  Mes projets phares
@@ -68,8 +68,6 @@ Application web de mise en relation autour d’activités
  Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
  Code : https://github.com/EnnioPilia/MeetMates  
-
----
 
 ###  Bubble Game
 Jeu web basé sur les réflexes (projet interpromo Simplon 2025)
