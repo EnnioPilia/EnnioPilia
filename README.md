@@ -17,14 +17,14 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
   <tr>
     <td align="center">
-   Angular • TypeScript • React<br><br>
+   Angular - TypeScript - React<br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="33" />&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33"/>
     </td>
 
   <td align="center">
-    Java • Spring Boot • Node.js • Express<br><br>
+    Java - Spring Boot - Node.js - Express<br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
@@ -32,13 +32,13 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
   </td>
 
   <td align="center">
- PostgreSQL • MySQL<br><br>
+ PostgreSQL - MySQL<br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="33"/>
   </td>
 
   <td align="center">
-   Docker • Git • GitHub Actions • Figma<br><br>
+   Docker - Git - GitHub Actions - Figma<br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>&nbsp;&nbsp;&nbsp;
