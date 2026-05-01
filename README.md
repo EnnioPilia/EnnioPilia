@@ -5,7 +5,7 @@ Diplômé en 2026 du titre Concepteur Développeur d’Applications (Bac +4) che
 Je suis à la recherche d’un poste de développeur, je souhaite intégrer une équipe afin de contribuer à des projets techniques tout en continuant à développer mes compétences.
 
 ## Stack & outils
-
+```html
 <table width="100%">
   <tr>
     <th width="25%">Frontend</th>
@@ -41,7 +41,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
     </td>
   </tr>
 </table>
-
+```
 ##  Me contacter
 
 <p>
