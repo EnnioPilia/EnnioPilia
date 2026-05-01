@@ -77,7 +77,7 @@ Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
   
 Projet récompensé pour le jeu le plus “fun”
 
-Demo : [Bubble Game](https://bubble-game-ennio.vercel.app/) 
+Demo : [BubbleGame.com](https://bubble-game-ennio.vercel.app/) 
 
 Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
   <br><br>
