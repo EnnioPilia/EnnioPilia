@@ -17,7 +17,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
   <tr>
     <td align="center">
-    Angular • TypeScript • Reac<br><br>
+    Angular • TypeScript • Reac       <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" />&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
@@ -38,7 +38,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
   </td>
 
   <td align="center">
-   Docker • Git • GitHub Actions • Figma<br><br>
+   Docker•Git•GitHub Actions•Figma<br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
