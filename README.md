@@ -1,5 +1,4 @@
 #  Bonjour, moi c’est Ennio 
-Développeur Fullstack 
 
 Développeur fullstack spécialisé en Angular et Spring Boot, diplômé en 2026 du titre Concepteur Développeur d’Applications (Bac +4) chez Simplon Grenoble.
 
@@ -25,8 +24,8 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
     </td>
 
   <td align="center">
-    Java • Spring Boot • Node.js - Express<br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40""/>&nbsp;&nbsp;&nbsp;
+    Java • Spring Boot • Node.js • Express<br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -61,7 +60,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ###  MeetMates
 Application web de mise en relation autour d’activités
 
-- API REST (stadless) sécurisée avec Spring Boot (JWT, Spring Security)
+- API REST stateless sécurisée avec Spring Boot (JWT, Spring Security)
 - Frontend Angular (SPA, routing, communication API)
 - Gestion des utilisateurs, événements et participation
 
@@ -70,7 +69,7 @@ Application web de mise en relation autour d’activités
  Code : https://github.com/EnnioPilia/MeetMates  
 
 ###  Bubble Game
-Jeu web basé sur les réflexes (projet interpromo Simplon 2025)
+Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
 
 - Développement en JavaScript (vanilla)
 - Gameplay dynamique avec score et difficulté progressive
