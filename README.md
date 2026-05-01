@@ -98,28 +98,24 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 <br>
 
 ##  Me contacter
-<table align="left">
+<table align="start">
   <tr>
-    <td align="center" width="140">
-      <div>
-        <br>
-        <a href="https://www.linkedin.com/in/ennio-pilia/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70"/><br><br>
-          LinkedIn
-        </a>
-        <br><br>
-      </div>
+    <td align="center" width="180">
+      <br>
+      <a href="https://www.linkedin.com/in/ennio-pilia/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70"/><br><br>
+        LinkedIn
+      </a>
+      <br>      <br>
     </td>
 
-  <td align="center" width="140">
-      <div>
-        <br>
-        <a href="mailto:pilia.ennio@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="70"/><br><br>
-          Email
-        </a>
-        <br><br>
-      </div>
+  <td align="center" width="180">
+      <br>
+      <a href="mailto:pilia.ennio@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="70"/><br><br>
+        pilia.ennio@gmail.com
+      </a>
+      <br>      <br>
     </td>
   </tr>
 </table>
