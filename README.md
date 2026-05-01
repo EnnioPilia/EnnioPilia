@@ -38,12 +38,12 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
   </td>
 
   <td align="center">
-    Docker/Git/GitHub Actions/Figma<br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="35"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
+    Docker - Git - GitHub Actions - Figma<br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   </td>
   </tr>
 </table>
