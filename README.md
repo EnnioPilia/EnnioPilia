@@ -95,6 +95,7 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 <p align="start">
   <img src="https://streak-stats.demolab.com?user=EnnioPilia&theme=tokyonight&background=1a1b27" width="400" />
 </p>
+<br>
 
 ##  Me contacter
 <table align="left">
