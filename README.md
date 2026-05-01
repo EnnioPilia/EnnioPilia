@@ -82,6 +82,20 @@ Projet récompensé pour le jeu le plus “fun”
 Demo : [BubbleGame.com](https://bubble-game-ennio.vercel.app/) 
 
 Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
+
+<br>
+
+###  Nob Ruliapi Photographe 
+Site vitrine pour un photographe professionnel
+
+- Développement frontend (HTML, CSS, JavaScript)
+- Mise en page responsive (mobile / tablette / desktop)
+- Optimisation des performances et du chargement des images
+- Mise en valeur du portfolio et de la navigation utilisateur
+
+Demo : [nob-ruliapi.com](nob-ruliapi-photographe.vercel.app) 
+
+Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
   <br><br>
   
 ##  Statistiques GitHub
