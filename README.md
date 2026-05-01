@@ -68,6 +68,8 @@ Application web de mise en relation autour d’activités
  
 Code : [Repository GitHub](https://github.com/EnnioPilia/MeetMates)
 
+<br>
+
 ###  Bubble Game
 Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
 
