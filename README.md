@@ -43,11 +43,12 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 ##  Me contacter
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  <a href="https://www.linkedin.com/in/ennio-pilia/"> : LinkedIn</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle;"/>
+  <a href="https://www.linkedin.com/in/ennio-pilia/" style="vertical-align:middle;"> LinkedIn</a>
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
-  <a href="mailto:pilia.ennio@gmail.com"> : Envoyer un email</a>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" style="vertical-align:middle;"/>
+  <a href="mailto:pilia.ennio@gmail.com" style="vertical-align:middle;"> Envoyer un email</a>
+</p>f="mailto:pilia.ennio@gmail.com"> : Envoyer un email</a>
 </p>
