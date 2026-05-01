@@ -17,7 +17,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
   <tr>
     <td align="center">
-    >Angular • TypeScript • React<br><br>
+    Angular • TypeScript • React<br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="33" />&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="33"/>&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33"/>
