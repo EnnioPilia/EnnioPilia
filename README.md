@@ -66,7 +66,7 @@ Application web de mise en relation autour d’activités
 
  Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
- Code : https://github.com/EnnioPilia/MeetMates  
+Code : [Repository GitHub](https://github.com/EnnioPilia/MeetMates)
 
 ###  Bubble Game
 Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
@@ -79,7 +79,7 @@ Projet récompensé pour le jeu le plus “fun”
 
 Demo : [Bubble Game](https://bubble-game-ennio.vercel.app/) 
 
-Code : https://github.com/EnnioPilia/BubbleGame  
+Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
   <br><br>
   
 ##  Statistiques GitHub
