@@ -49,8 +49,12 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 </table>
 <br>
 
+##  Mes projets phares
+- API REST sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
+- Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
+  <br><br>
+  
 ##  Me contacter
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle; margin-right:5px;"/>
   <a href="https://www.linkedin.com/in/ennio-pilia/">LinkedIn</a>
