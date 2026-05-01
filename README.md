@@ -54,14 +54,44 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 - Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
   <br><br>
   
+##  Statistiques GitHub
+
+<p align="start">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnnioPilia&layout=compact&langs_count=1&theme=tokyonight&bg_color=1a1b27" width="400"/>
+</p>
+
+<p align="start">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnnioPilia&show_icons=true&theme=tokyonight&bg_color=1a1b27" width="400" />
+</p>
+
+<p align="start">
+  <img src="https://streak-stats.demolab.com?user=EnnioPilia&theme=tokyonight&background=1a1b27" width="400" />
+</p>
+<br>
+  
 ##  Me contacter
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align:middle; margin-right:5px;"/>
-  <a href="https://www.linkedin.com/in/ennio-pilia/">LinkedIn</a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center" width="140">
+      <div>
+        <br>
+        <a href="https://www.linkedin.com/in/ennio-pilia/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70"/><br><br>
+          LinkedIn
+        </a>
+        <br><br>
+      </div>
+    </td>
 
-<p>
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" style="vertical-align:middle; margin-right:5px;"/>
-  <a href="mailto:pilia.ennio@gmail.com">Envoyer un email</a>
-</p>
-
+  <td align="center" width="140">
+      <div>
+        <br>
+        <a href="mailto:pilia.ennio@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="70"/><br><br>
+          Email
+        </a>
+        <br><br>
+      </div>
+    </td>
+  </tr>
+</table>
