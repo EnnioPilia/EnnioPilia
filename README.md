@@ -46,7 +46,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
   </td>
   </tr>
 </table>
-
+<br>
 
 ##  Mes projets phares
 - API REST sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
@@ -66,8 +66,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 <p align="start">
   <img src="https://streak-stats.demolab.com?user=EnnioPilia&theme=tokyonight&background=1a1b27" width="400" />
 </p>
-<br>
-  
+
 ##  Me contacter
 <table align="left">
   <tr>
