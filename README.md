@@ -6,10 +6,6 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
 ##  Stack & outils
 
-## 🚀 Stack & outils
-
-## 🚀 Stack & outils
-
 ### Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
@@ -22,10 +18,24 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</p>
+
+### Bases de données
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### Outils & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
 ##  Mes projets
-- Application full-stack sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
+- API REST sécurisée (Spring Boot / Angular) : [Meet Mates](https://meetmates-1.onrender.com)
 - Jeu en JS : [Bubble Game](https://bubble-game-ennio.vercel.app/)
 
 ##  Me contacter
