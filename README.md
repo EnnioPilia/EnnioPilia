@@ -12,7 +12,7 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
     <th>Frontend</th>
     <th>Backend</th>
     <th>Bases de données</th>
-    <th>DevOps</th>
+    <th>Outils & DevOps</th>
   </tr>
 
   <tr>
