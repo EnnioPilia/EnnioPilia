@@ -6,22 +6,19 @@ Je suis à la recherche d’un poste de développeur, je souhaite intégrer une 
 
 ## 🚀 Stack & outils
 
-<div align="center">
+<p align="center">
+<b>Frontend</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>Backend</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>DB</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>DevOps</b>
+</p>
 
-<div style="display: inline-block; margin: 20px;">
-<b>Frontend</b><br>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-</div>
-
-<div style="display: inline-block; margin: 20px;">
-<b>Backend</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
-</div>
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+</p>
 ##  Me contacter
 
 <p>
