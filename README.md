@@ -66,7 +66,7 @@ Application web de mise en relation autour d’activités
 
  Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
-Code : [Repository GitHub](https://github.com/EnnioPilia/MeetMates)
+Code : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 
 <br>
 
