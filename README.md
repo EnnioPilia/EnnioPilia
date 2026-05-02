@@ -73,7 +73,7 @@ Application web de mise en relation autour d’activités
 - Gestion des utilisateurs, événements et participation (CRUD)
 - Centralisation des messages (succès/erreurs) côté back-end, affichage dynamique côté front-end
 - Gestion du profil
-- Dashboard d’administration 
+- Dashboard administrateur
   
 Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
