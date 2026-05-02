@@ -5,8 +5,9 @@ Développeur fullstack spécialisé en Angular et Spring Boot, diplômé en 2026
 Je recherche un poste de développeur pour intégrer une équipe, contribuer à des projets techniques et continuer à développer mes compétences, en autonomie comme en collaboration.
 <br><br>
 
-##  Stack & outils
+---
 
+##  Stack & outils
 <table>
   <tr>
     <th>Frontend</th>
@@ -46,7 +47,9 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
   </td>
   </tr>
 </table>
-<br>
+<br><br>
+
+---
 
 ##  Points forts
 - Conception et sécurisation d’API REST
@@ -54,7 +57,9 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 - Modélisation de bases de données (MCD, MLD, MPD)
 - Conteneurisation d’applications avec Docker
 - Versioning et CI/CD avec Git et GitHub Actions
-  <br><br>
+  <br><br><br>
+  
+---
   
 ##  Mes projets phares
 ###  MeetMates
@@ -64,9 +69,9 @@ Application web de mise en relation autour d’activités
 - SPA avec Angular (routing, gestion d’état avec RxJS et Signals)
 - Gestion des utilisateurs, événements et participation
 
- Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
+Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
-Code : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
+Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 
 <br>
 
@@ -86,17 +91,20 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 <br>
 
 ###  Nob Ruliapi Photographe 
-Site vitrine pour un photographe professionnel
+Site vitrine pour un ancien photographe professionnel (rétrospective de son œuvre)
+ 
+- Développement frontend (HTML, CSS, JavaScript) 
+- Mise en page responsive (mobile, tablette, desktop)
+- Optimisation du chargement des images (lazy loading, dimensionnement adapté avec le client)
+- Mise en valeur du portfolio grâce à des mises en page interactives, avec une navigation fluide et intuitive
 
-- Développement frontend (HTML, CSS, JavaScript)
-- Mise en page responsive (mobile / tablette / desktop)
-- Optimisation des performances et du chargement des images
-- Mise en valeur du portfolio et de la navigation utilisateur
-
-Demo : [nob-ruliapi.com](https://nob-ruliapi-photographe.vercel.app/)
+Demo : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
 
 Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
-  <br><br>
+
+<br><br>
+
+---
   
 ##  Statistiques GitHub
 
@@ -112,6 +120,8 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
   <img src="https://streak-stats.demolab.com?user=EnnioPilia&theme=tokyonight&background=1a1b27" width="400" />
 </p>
 <br>
+
+---
 
 ##  Me contacter
 <table align="start">
