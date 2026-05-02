@@ -70,7 +70,7 @@ Application web de mise en relation autour d’activités
 - API REST stateless sécurisée (JWT, Spring Security)
 - SPA (routing, gestion d’état avec RxJS et Signals)
 - Gestion des utilisateurs, événements et participation (CRUD)
-- Centralisation des messages (succès/erreurs) côté back-end, affiché dynamique côté front-end
+- Centralisation des messages (succès/erreurs) côté back-end, affichage dynamique côté front-end
 - Gestion du profil
 - Dashboard d’administration 
   
