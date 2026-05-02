@@ -99,7 +99,7 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 <br>
 
 ###  Nob Ruliapi Photographe 
-Site vitrine pour un ancien photographe professionnel, rétrospective de son œuvre (projet personnel)
+Site vitrine pour un photographe professionnel à la retraite, rétrospective de son œuvre (projet personnel)
 
  **Stack** : HTML • CSS • JavaScript
 
