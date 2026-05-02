@@ -89,7 +89,6 @@ Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
 - Paramètres personnalisables (son, interface, environnement)
 - Modes de difficulté (easy, hard, expert) et mode entraînement
 - Gestion du score (LocalStorage)
-- Interface responsive
   
 Projet récompensé pour le jeu le plus “fun”
 
