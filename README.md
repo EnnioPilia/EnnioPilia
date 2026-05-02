@@ -52,11 +52,11 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ---
 
 ##  Points forts
-- Conception et sécurisation d’API REST
-- Développement d'interfaces web 
+- Conception d’API REST sécurisées
+- Développement d'interfaces web modernes 
 - Modélisation de bases de données (MCD, MLD, MPD)
-- Conteneurisation d’applications avec Docker
-- Versioning et CI/CD avec Git et GitHub Actions
+- Conteneurisation avec Docker
+- CI/CD avec GitHub Actions
   <br><br><br>
   
 ---
@@ -65,10 +65,14 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ###  MeetMates
 Application web de mise en relation autour d’activités
 
-- API REST stateless sécurisée avec Spring Boot (JWT, Spring Security)
-- SPA avec Angular (routing, gestion d’état avec RxJS et Signals)
-- Gestion des utilisateurs, événements et participation
+**Stack** : Angular • Spring Boot • MySQL 
 
+- API REST stateless sécurisée (JWT, Spring Security)
+- SPA (routing, gestion d’état avec RxJS et Signals)
+- Gestion des utilisateurs, événements et participation (CRUD)
+- Gestion du profil
+- Dashboard d’administration 
+  
 Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
 Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
@@ -78,9 +82,13 @@ Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 ###  Bubble Game
 Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
 
-- Développement en JavaScript (vanilla)
-- Gameplay dynamique avec score et difficulté progressive
-- Interface responsive et gestion du score (LocalStorage)
+**Stack** : JavaScript (vanilla)
+
+- Gameplay dynamique avec bonus interactifs et difficulté progressive
+- Paramètres personnalisables (son, interface, environnement)
+- Modes de difficulté (easy, hard, expert) et mode entraînement
+- Gestion du score (LocalStorage)
+- Interface responsive
   
 Projet récompensé pour le jeu le plus “fun”
 
@@ -92,12 +100,13 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 
 ###  Nob Ruliapi Photographe 
 Site vitrine pour un ancien photographe professionnel (rétrospective de son œuvre)
- 
-- Développement frontend (HTML, CSS, JavaScript) 
-- Mise en page responsive (mobile, tablette, desktop)
+
+ **Stack** : HTML • CSS • JavaScript
+
 - Optimisation du chargement des images (lazy loading, dimensionnement adapté avec le client)
 - Mise en valeur du portfolio grâce à des mises en page interactives, avec une navigation fluide et intuitive
-
+- Mise en page responsive (mobile, tablette, desktop)
+  
 Demo : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
 
 Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
