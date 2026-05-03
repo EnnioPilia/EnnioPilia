@@ -69,7 +69,7 @@ Application web de mise en relation autour d’activités
 **Stack** : Angular • Spring Boot • MySQL 
 
 - API REST stateless sécurisée (JWT en cookies HTTP-only, Spring Security)
-- SPA (standalone components, gestion d’état avec RxJS et Signals)
+- SPA Angular (standalone components, gestion d’état avec RxJS et Signals)
 - Architecture modulaire et scalables
 - Gestion des utilisateurs, événements et participations (CRUD)
 - Centralisation des messages côté backend avec affichage dynamique côté frontend
