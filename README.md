@@ -57,7 +57,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 - Architecture d’applications modulaires et scalables
 - Modélisation de bases de données (MCD, MLD, MPD)
 - Conteneurisation avec Docker
-- CI/CD avec GitHub Actions
+- CI/CD via GitHub Actions
   <br><br><br>
   
 ---
