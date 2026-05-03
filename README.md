@@ -84,7 +84,7 @@ Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 ###  Bubble Game
 Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
 
-**Stack** : JavaScript (vanilla)
+**Stack** : HTML • CSS • JavaScript (vanilla)
 
 - Gameplay dynamique avec bonus interactifs et difficulté progressive
 - Paramètres personnalisables (son, interface, environnement)
@@ -102,7 +102,7 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 ###  Nob Ruliapi Photographe 
 Site vitrine pour un photographe professionnel à la retraite, présentant une rétrospective de son travail à travers une expérience visuelle immersive (projet personnel) .
 
- **Stack** : HTML • CSS • JavaScript
+ **Stack** : HTML • CSS • JavaScript (vanilla)
 
 - Mise en valeur du portfolio grâce à des mises en page interactives et avec une navigation fluide
 - Implémentation de plusieurs carrousels (classique, positions, slider infini, carrousel 3D)
