@@ -68,10 +68,11 @@ Application web de mise en relation autour d’activités
 
 **Stack** : Angular • Spring Boot • MySQL 
 
-- API REST stateless sécurisée (JWT, Spring Security)
+- API REST stateless sécurisée (JWT en cookies HTTP-only, Spring Security)
 - SPA (standalone components, gestion d’état avec RxJS et Signals)
-- Gestion des utilisateurs, événements, participation et du profil (CRUD)
-- Centralisation des messages (succès/erreurs) côté back-end, affichage dynamique côté front-end
+- Architecture modulaire et scalables
+- Gestion des utilisateurs, événements et participations (CRUD)
+- Centralisation des messages côté backend avec affichage dynamique côté frontend
 - Dashboard administrateur
   
 Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
