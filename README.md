@@ -100,13 +100,16 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
 <br>
 
 ###  Nob Ruliapi Photographe 
-Site vitrine pour un photographe professionnel à la retraite, rétrospective de son œuvre (projet personnel)
+Site vitrine pour un photographe professionnel à la retraite, présentant une rétrospective de son travail à travers une expérience visuelle immersive (projet personnel) .
 
  **Stack** : HTML • CSS • JavaScript
 
-- Mise en valeur du portfolio grâce à des mises en page interactives, avec une navigation fluide
-- Optimisation du chargement des images (lazy loading, dimensionnement adapté avec le client)
-- Mise en page responsive (mobile, tablette, desktop)
+- Mise en valeur du portfolio grâce à des mises en page interactives et avec une navigation fluide
+- Implémentation de plusieurs carrousels (classique, positions, slider infini, carrousel 3D)
+- Mode plein écran avec zoom interactif et déplacement (drag)
+- Animations au scroll (Intersection Observer)
+- Optimisation des performances (lazy loading, images adaptées)
+- Design responsive (mobile, tablette, desktop)
   
 Demo : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
 
