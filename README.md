@@ -104,8 +104,8 @@ Site vitrine pour un photographe professionnel à la retraite, rétrospective de
 
  **Stack** : HTML • CSS • JavaScript
 
-- Optimisation du chargement des images (lazy loading, dimensionnement adapté avec le client)
 - Mise en valeur du portfolio grâce à des mises en page interactives, avec une navigation fluide
+- Optimisation du chargement des images (lazy loading, dimensionnement adapté avec le client)
 - Mise en page responsive (mobile, tablette, desktop)
   
 Demo : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
