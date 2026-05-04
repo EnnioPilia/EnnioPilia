@@ -7,7 +7,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 
 ---
 
-##  STACK & OUTILS
+##  TECHNOLOGIES & OUTILS
 <table>
   <tr>
     <th>Frontend</th>
