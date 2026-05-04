@@ -1,8 +1,8 @@
 #  Bonjour, moi c’est Ennio 
 
-Développeur fullstack spécialisé en Angular et Spring Boot, diplômé en 2026 du titre Concepteur Développeur d’Applications (Bac +4) chez Simplon Grenoble.
+Développeur fullstack spécialisé en Angular et Spring Boot, diplômé en 2026 du titre de **Concepteur Développeur d’Applications** (Bac +4) chez Simplon Grenoble.
 
-Je recherche un poste de développeur pour intégrer une équipe, contribuer à des projets techniques et continuer à développer mes compétences, en autonomie comme en collaboration.
+Je recherche un poste de développeur pour intégrer une équipe, contribuer à des projets techniques et continuer à développer mes compétences techniques, en autonomie comme en collaboration.
 <br><br>
 
 ---
@@ -51,7 +51,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 
 ---
 
-##  Points forts
+##  COMPÉTENCES TECHNIQUES
 - Conception d’API REST sécurisées
 - Développement d'interfaces web modernes 
 - Architecture d’applications modulaires et scalables
@@ -62,7 +62,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
   
 ---
   
-##  Mes projets phares
+##  MES PROJETS PHARES
 ###  MeetMates
 Application web de mise en relation autour d’activités
 
@@ -70,7 +70,7 @@ Application web de mise en relation autour d’activités
 
 - API REST stateless sécurisée (JWT en cookies HTTP-only, Spring Security)
 - SPA Angular (standalone components, gestion d’état avec RxJS et Signals)
-- Architecture modulaire et scalables
+- Architecture modulaire et scalable
 - Gestion des utilisateurs, événements et participations (CRUD)
 - Centralisation des messages côté backend avec affichage dynamique côté frontend
 - Dashboard administrateur
@@ -104,7 +104,7 @@ Site vitrine pour un photographe professionnel à la retraite, présentant une r
 
  **Stack** : HTML • CSS • JavaScript (vanilla)
 
-- Mise en valeur du portfolio grâce à des mises en page interactives et avec une navigation fluide
+- Mise en valeur du portfolio grâce à des mises en page interactives et une navigation fluide
 - Implémentation de plusieurs carrousels (classique, positions, slider infini, carrousel 3D)
 - Mode plein écran avec zoom interactif et déplacement (drag)
 - Animations au scroll (Intersection Observer)
@@ -119,7 +119,7 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
 
 ---
   
-##  Statistiques GitHub
+##  STATISTIQUES GITHUB
 
 <p align="start">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnnioPilia&layout=compact&langs_count=1&theme=tokyonight&bg_color=1a1b27" width="400"/>
@@ -136,7 +136,7 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
 
 ---
 
-##  Me contacter
+##  ME CONTACTER
 <table align="start">
   <tr>
     <td align="center" width="180">
@@ -145,7 +145,7 @@ Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70"/><br><br>
         LinkedIn
       </a>
-      <br>      <br>
+      <br><br>
     </td>
 
   <td align="center" width="180">
