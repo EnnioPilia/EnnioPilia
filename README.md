@@ -1,6 +1,6 @@
 #  Bonjour, moi c’est Ennio 
 
-Développeur full-stack spécialisé en Angular et Spring Boot, diplômé en 2026 du titre de **Concepteur Développeur d’Applications** (Bac +4) à Simplon Grenoble.
+Développeur full-stack spécialisé en Angular et Spring Boot, diplômé en 2026 du titre de **Concepteur Développeur d’Applications** <br> (Bac +4) à Simplon Grenoble.
 
 Je recherche un poste de développeur pour intégrer une équipe, contribuer à des projets techniques et continuer à développer mes compétences techniques, en autonomie comme en collaboration.
 <br><br>
