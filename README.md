@@ -7,7 +7,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 
 ---
 
-##  Stack & outils
+##  STACK & OUTILS
 <table>
   <tr>
     <th>Frontend</th>
@@ -75,7 +75,7 @@ Application web de mise en relation autour d’activités
 - Centralisation des messages côté backend avec affichage dynamique côté frontend
 - Dashboard administrateur
   
-Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
+Demo : [MeetMates.com](https://meetmates-1.onrender.com) (version demo)
  
 Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 
