@@ -75,7 +75,7 @@ Application web de mise en relation autour d’activités
 - Centralisation des messages côté backend avec affichage dynamique côté frontend
 - Dashboard administrateur
   
-Demo : [MeetMates.com](https://meetmates-1.onrender.com) (version demo)
+Demo : [MeetMates.com](https://meetmates-1.onrender.com) (version render)
  
 Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 
