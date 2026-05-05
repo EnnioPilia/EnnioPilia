@@ -52,7 +52,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ---
 
 ##  COMPÉTENCES TECHNIQUES
-- Architecture d’applications modulaires,évolutives et scalables
+- Architecture d’applications modulaires, évolutives et scalables
 - Conception d’API REST sécurisées (auth JWT, bonnes pratiques OWASP)
 - Développement d'interfaces web modernes (SPA, composants modulaires)
 - Modélisation de bases de données (MCD, MLD, MPD)
