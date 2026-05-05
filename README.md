@@ -52,12 +52,14 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ---
 
 ##  COMPÉTENCES TECHNIQUES
-- Conception d’API REST sécurisées
-- Développement d'interfaces web modernes 
-- Architecture d’applications modulaires et scalables
+- Architecture d’applications modulaires,évolutives et scalables
+- Conception d’API REST sécurisées (auth JWT, bonnes pratiques OWASP)
+- Développement d'interfaces web modernes (SPA, composants modulaires)
 - Modélisation de bases de données (MCD, MLD, MPD)
+- Mise en place de tests (unitaires, intégration)
+- CI/CD via GitHub Actions (tests automatisés, déploiement continu)
 - Conteneurisation avec Docker
-- CI/CD via GitHub Actions
+
   <br><br><br>
   
 ---
