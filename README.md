@@ -60,7 +60,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 - CI/CD via GitHub Actions (tests automatisés, déploiement continu)
 - Conteneurisation avec Docker
 
-  <br><br><br>
+  <br><br>
   
 ---
   
