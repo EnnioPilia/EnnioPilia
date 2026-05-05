@@ -79,7 +79,7 @@ Application web permettant de découvrir, organiser et rejoindre des activités 
   
 Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
-Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
+Code  : [Repository](https://github.com/EnnioPilia/MeetMatesRender)
 
 <br>
 
@@ -97,7 +97,7 @@ Projet récompensé pour le jeu le plus “fun”
 
 Demo : [BubbleGame.com](https://bubble-game-ennio.vercel.app/) 
 
-Code : [Repository GitHub](https://github.com/EnnioPilia/BubbleGame)
+Code : [Repository](https://github.com/EnnioPilia/BubbleGame)
 
 <br>
 
@@ -115,7 +115,7 @@ Site vitrine pour un photographe professionnel à la retraite, présentant une r
   
 Demo : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
 
-Code : [Repository GitHub](https://github.com/EnnioPilia/nob-site)
+Code : [Repository](https://github.com/EnnioPilia/nob-site)
 
 <br><br>
 
