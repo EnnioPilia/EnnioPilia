@@ -66,7 +66,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
   
 ##  MES PROJETS PHARES
 ###  MeetMates
-Application web de mise en relation autour d’activités
+Application web permettant de découvrir, organiser et rejoindre des activités au sein d’une plateforme communautaire.
 
 **Stack** : Angular • Spring Boot • PostgreSQL  
 
@@ -84,7 +84,7 @@ Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 <br>
 
 ###  Bubble Game
-Jeu web basé sur les réflexes (projet inter-promotion Simplon 2025)
+Jeu web basé sur les réflexes (projet concours inter-promotion Simplon 2025)
 
 **Stack** : HTML • CSS • JavaScript (vanilla)
 
