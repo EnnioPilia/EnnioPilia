@@ -68,16 +68,16 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ###  MeetMates
 Application web de mise en relation autour d’activités
 
-**Stack** : Angular • Spring Boot • MySQL 
+**Stack** : Angular • Spring Boot • PostgreSQL  
 
 - API REST stateless sécurisée (JWT en cookies HTTP-only, Spring Security)
 - SPA Angular (standalone components, gestion d’état avec RxJS et Signals)
 - Architecture modulaire et scalable
 - Gestion des utilisateurs, événements et participations (CRUD)
-- Centralisation des messages côté backend avec affichage dynamique côté frontend
+- Pipeline CI/CD automatisée : tests front & back (GitHub Actions) et déploiement continu (Render - version gratuite)
 - Dashboard administrateur
   
-Demo : [MeetMates.com](https://meetmates-1.onrender.com) (version Render)
+Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
  
 Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 
