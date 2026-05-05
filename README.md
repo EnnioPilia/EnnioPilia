@@ -83,7 +83,7 @@ Code  : [Repository GitHub](https://github.com/EnnioPilia/MeetMatesRender)
 
 <br>
 
-###  Bubble Game
+###  BubbleGame
 Jeu web basé sur les réflexes (projet concours inter-promotion Simplon 2025)
 
 **Stack** : HTML • CSS • JavaScript (vanilla)
