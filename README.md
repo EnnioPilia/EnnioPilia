@@ -19,7 +19,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 
   <tr>
     <td align="center">
-   Angular • TypeScript • React • React  <br><br>
+   Angular • TypeScript • React • React Native <br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
