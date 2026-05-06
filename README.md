@@ -35,8 +35,8 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 
   <td align="center">
  PostgreSQL • MySQL<br><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
   </td>
 
   <td align="center">
