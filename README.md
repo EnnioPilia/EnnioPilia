@@ -95,7 +95,6 @@ Jeu d’arcade web dynamique basé sur les réflexes et la précision (projet co
 - Gameplay évolutif avec accélération progressive et gestion du risque
 - Implémentation de mécaniques avancées (bonus, multiplicateurs, modes spéciaux)
 - Système de configuration utilisateur (audio, interface, environnement)
-- Persistance des scores (LocalStorage, classement par difficulté)
   
 Projet récompensé pour le jeu le plus “fun”
 
