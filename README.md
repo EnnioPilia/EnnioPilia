@@ -52,7 +52,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 ---
 
 ##  COMPÉTENCES TECHNIQUES
-- Architecture d’applications modulaires, évolutives et scalables
+- Architecture d’applications modulaires et évolutives (stateless, séparation des responsabilités, montée en charge)
 - Conception d’API REST sécurisées (auth JWT, bonnes pratiques OWASP)
 - Développement d'interfaces web modernes (SPA, composants modulaires)
 - Modélisation de bases de données (MCD, MLD, MPD)
@@ -70,9 +70,9 @@ Application web permettant de découvrir, organiser et rejoindre des activités 
 
 **Stack** : Angular • Spring Boot • PostgreSQL  
 
+- Architecture en couches avec séparation des responsabilités
 - API REST stateless sécurisée (JWT en cookies HTTP-only, Spring Security)
 - SPA Angular (standalone components, gestion d’état avec RxJS et Signals)
-- Architecture modulaire et scalable
 - Gestion des utilisateurs, événements et participations (CRUD)
 - Pipeline CI/CD automatisée : tests front & back (GitHub Actions) et déploiement continu (Render - version gratuite)
 - Dashboard administrateur
@@ -84,14 +84,18 @@ Code  : [Repository](https://github.com/EnnioPilia/MeetMatesRender)
 <br>
 
 ###  BubbleGame
-Jeu web basé sur les réflexes (projet concours inter-promotion Simplon 2025)
+Jeu d’arcade web dynamique basé sur les réflexes et la précision (projet concours inter-promotion Simplon 2025)
 
 **Stack** : HTML • CSS • JavaScript (vanilla)
 
-- Gameplay dynamique avec bonus interactifs et difficulté progressive
-- Paramètres personnalisables (son, interface, environnement)
-- Modes de difficulté (easy, hard, expert) et mode entraînement
-- Gestion du score (LocalStorage)
+- Architecture JavaScript modulaire (séparation des responsabilités)
+- Système d’état centralisé (score, vies, difficulté, états de jeu, effets actifs)
+- Génération dynamique d’entités avec cycle de vie autonome (spawn → interaction → destruction)
+- Boucle de jeu optimisée (timers, gestion des événements, rafraîchissement dynamique)
+- Gameplay évolutif avec accélération progressive et gestion du risque
+- Implémentation de mécaniques avancées (bonus, multiplicateurs, modes spéciaux)
+- Système de configuration utilisateur (audio, interface, environnement)
+- Persistance des scores (LocalStorage, classement par difficulté)
   
 Projet récompensé pour le jeu le plus “fun”
 
