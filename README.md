@@ -6,6 +6,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 <br><br>
 
 ---
+<br>
 
 ##  TECHNOLOGIES & OUTILS
 <table>
@@ -50,6 +51,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
 <br><br>
 
 ---
+<br>
 
 ##  COMPÉTENCES TECHNIQUES
 - Architecture d’applications modulaires et évolutives (stateless, séparation des responsabilités, montée en charge)
@@ -63,6 +65,7 @@ Je recherche un poste de développeur pour intégrer une équipe, contribuer à 
   <br><br>
   
 ---
+  <br>
   
 ##  MES PROJETS PHARES
 ###  MeetMates
@@ -123,6 +126,7 @@ Code : [Repository](https://github.com/EnnioPilia/nob-site)
 <br><br>
 
 ---
+  <br>
   
 ##  STATISTIQUES GITHUB
 
@@ -140,6 +144,7 @@ Code : [Repository](https://github.com/EnnioPilia/nob-site)
 <br>
 
 ---
+<br>
 
 ##  ME CONTACTER
 <table align="start">
