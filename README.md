@@ -80,9 +80,9 @@ Application web permettant de découvrir, organiser et rejoindre des activités 
 - Pipeline CI/CD automatisée : tests front & back (GitHub Actions) et déploiement continu (Render - version gratuite)
 - Dashboard administrateur
   
-Demo : [MeetMates.com](https://meetmates-1.onrender.com) 
+DEMO : [MeetMates.com](https://meetmates-1.onrender.com) 
  
-Code  : [Repository](https://github.com/EnnioPilia/MeetMatesRender)
+CODE  : [Repository](https://github.com/EnnioPilia/MeetMatesRender)
 
 <br>
 
@@ -101,9 +101,9 @@ Jeu d’arcade web dynamique basé sur les réflexes et la précision (projet co
   
 Projet récompensé pour le jeu le plus “fun”
 
-Demo : [BubbleGame.com](https://bubble-game-ennio.vercel.app/) 
+DEMO : [BubbleGame.com](https://bubble-game-ennio.vercel.app/) 
 
-Code : [Repository](https://github.com/EnnioPilia/BubbleGame)
+CODE : [Repository](https://github.com/EnnioPilia/BubbleGame)
 
 <br>
 
@@ -119,9 +119,9 @@ Site vitrine pour un photographe professionnel à la retraite, présentant une r
 - Optimisation des performances (lazy loading, images adaptées)
 - Design responsive (mobile, tablette, desktop)
   
-Demo : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
+DEMO : [nob-ruliapi-photographe.com](https://nob-ruliapi-photographe.vercel.app/)
 
-Code : [Repository](https://github.com/EnnioPilia/nob-site)
+CODE : [Repository](https://github.com/EnnioPilia/nob-site)
 
 <br><br>
 
